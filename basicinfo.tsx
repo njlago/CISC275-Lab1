@@ -4,7 +4,7 @@ everyone dreads at the start of the semester. Sorry, I just needed a filler for 
 
 
 const nickLago : String = "Nick Lago";
-let he/him : String = "he/him";
+let pronouns : String = "he/him";
 const computerScience : String = "Computer Science";
 let classification : String = "sophomore";
 let oneExcite : String = "I'm excited to learn more about frontend development";
