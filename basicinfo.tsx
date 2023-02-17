@@ -5,7 +5,7 @@ everyone dreads at the start of the semester. Sorry, I just needed a filler for 
 
 const nickLago : String = "Nick Lago";
 let pronouns : String = "he/him";
-const computerScience : String = "Computer Science";
+const major : String = "Computer Science";
 let classification : String = "sophomore";
 let oneExcite : String = "I'm excited to learn more about frontend development";
 let anyConcerns : String = "I'm worried that software engineering could turn out to not be the job for me";
